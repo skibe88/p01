@@ -1,0 +1,31 @@
+ h1 {
+  color:rgb(201, 115, 223);
+  border-style: inset;
+}
+
+header p {
+  color: rgb(65, 78, 122);
+}
+.article-body {
+  color:darkblue;
+  background-color: lightgray;
+} 
+
+#footer-p {
+  color: rgb(102, 95, 105);
+  text-decoration: underline;
+} 
+
+html {
+  background-color:rgb(250, 237, 223);
+}
+
+p {
+  font-family: "Arial Narrow";
+}
+
+h3 {
+  font-style:italic;
+}
+
+
